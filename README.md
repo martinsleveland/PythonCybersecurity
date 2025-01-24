@@ -1,3 +1,5 @@
+Feel free to contact me if you have any issues or questions: [Email](mailto:slevelandmartin@gmail.com)
+
 ### Installation
 
 
