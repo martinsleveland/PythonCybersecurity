@@ -2,7 +2,8 @@ installing:
 
 git clone https://github.com/martinsleveland/PythonCybersecurity.git
 
-cd PythonCybersecurity\n
+cd PythonCybersecurity
+
 
 running:
 
