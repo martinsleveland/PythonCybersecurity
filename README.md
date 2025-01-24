@@ -1,9 +1,9 @@
 ### Installation
 
 
-- For the DoSBlocker you will need to install scapy
+- For the "DoSBlocker" you will need to install scapy
 
-- FirewallSimulation is just a simulation, although you can change the different ip's you want to simulate
+- "FirewallSimulation" is just a simulation, although you can change the different ip's you want to simulate
 
 
 
