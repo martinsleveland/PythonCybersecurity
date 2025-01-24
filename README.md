@@ -1,6 +1,6 @@
 installing:
 
-git clone https://github.com/martinsleveland/PythonCybersecurity.git
+sudo git clone https://github.com/martinsleveland/PythonCybersecurity.git
 
 cd PythonCybersecurity
 
