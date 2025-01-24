@@ -7,12 +7,12 @@
 
 
 
-- Just, Clone this repository
+- Just clone this repository!
 ```
 $ sudo git clone https://github.com/martinsleveland/PythonCybersecurity.git
 ```
 
-- Change to cloned directory and run
+- Change to cloned directory and run!
 ```
 $ cd PythonCybersecurity
 $ sudo apt update
