@@ -1,11 +1,11 @@
 ### Installation
 
-- Just, Clone this repository -
+- Just, Clone this repository
 ```
 $ sudo git clone https://github.com/martinsleveland/PythonCybersecurity.git
 ```
 
-- Change to cloned directory and run `*.py` -
+- Change to cloned directory and run
 ```
 $ cd PythonCybersecurity
 $ python3 FirewallSimulation.py *This is just a simulation, although you can change the different ip's you want to simulate*\n
