@@ -36,4 +36,4 @@ $ python3 DoSBlocker.py
 
 
 *DISCLAIMER:
-I was decided to follow [Faanross](https://www.youtube.com/@faanross)'s course. All credits to him. :)*
+I've decided to follow [Faanross](https://www.youtube.com/@faanross)'s course. All credits to him. :)*
