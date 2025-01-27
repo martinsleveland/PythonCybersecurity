@@ -3,8 +3,7 @@ Feel free to contact me if you have any issues or questions: [Email](mailto:slev
 ### Installation
 
 
-- For the "DoSBlocker" you will need to install scapy
-
+- Having the scapy libary is required
 - "FirewallSimulation" is just a simulation, although you can change the different ip's you want to simulate
 
 
@@ -32,6 +31,9 @@ $ python3 FirewallSimulation.py
 ```
 ```
 $ python3 DoSBlocker.py
+```
+```
+$ python3 PacketFlooder.py
 ```
 
 
