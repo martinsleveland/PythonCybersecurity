@@ -41,6 +41,9 @@ $ python3 pingSweeper.py
 ```
 $ python3 synScan.py 192.168.1.12 80
 ```
+```
+$ python3 get_service_banner.py 192.168.1.12 -p 80,443,21,22,23
+```
 
 
 *DISCLAIMER:
