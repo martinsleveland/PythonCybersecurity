@@ -35,6 +35,12 @@ $ python3 DoSBlocker.py
 ```
 $ python3 PacketFlooder.py
 ```
+```
+$ python3 pingSweeper.py
+```
+```
+$ python3 synScan.py 192.168.1.12 80
+```
 
 
 *DISCLAIMER:
