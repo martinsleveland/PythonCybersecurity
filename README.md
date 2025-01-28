@@ -47,6 +47,9 @@ $ python3 get_service_banner.py 192.168.1.12 -p 80,443,21,22,23
 ```
 python3 os_fingerprint.py 192.168.1.13 -p 80,8080,443,21,22,23
 ```
+```
+Doubt the wrapper will work atm (i cant be asked to test it out lmao
+```
 *DISCLAIMER:
 I've decided to follow [Faanross](https://www.youtube.com/@faanross)'s course. All credits to him. :)*
 - 𝒮𝓁𝑒𝓋𝑒𝓁𝒶𝓃𝒹
